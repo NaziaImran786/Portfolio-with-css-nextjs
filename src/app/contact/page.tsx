@@ -9,11 +9,10 @@ const page = () => {
 <section className="grid md:grid-cols-2 my-10 lg:px-24 md:my-6 py-10 gap-4 relative">
     <div className="bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-purple-900 to-transparent rounded-full h-80 w-80 z-0 blur-lg absolute top-3/4 -let-4 transform -translate-x-1/2"></div>
      <div className="z-100">
-      <h5 className="text-4xl font-bold text-white my-4">Let's Contact</h5>
-      <p className="text-[#ADB7BE] mb-4 max-w-md">
-        {" "}
-        I'm currently looking for opportunities, my inbox is always open.
-        Whether you have a question or just want to say hi, I'll try my best
+      <h5 className="text-4xl font-bold text-white my-4">Lets Contact</h5>
+      <p className="text-[#ADB7BE] mb-4 max-w-md">        
+        I am currently looking for opportunities, my inbox is always open.
+        Whether you have a question or just want to say hi, I will try my best
         to get back to you!
       </p>
       <div className="socials flex flex-row gap-2">

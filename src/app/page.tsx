@@ -32,7 +32,7 @@ export default function Home() {
     />       
         </h1>          
               
-             <p>I'm a web Designer with extensive experience for over 7 months. My expertise is to create and design website, completely and fully functionally.</p><br/>
+             <p>I am a web Designer with extensive experience for over 7 months. My expertise is to create and design website, completely and fully functionally.</p><br/>
              <div id="logoDiv">
                 <Link href="https://www.facebook.com/">
                     <button className="logobtn" id="f" >
@@ -78,16 +78,3 @@ export default function Home() {
   </>
   )
 };
-
-
-
-//H.W
-//rendering
-//client side rendering
-//server side rendering
-// static rendering
-// dynamic rendering
-//seo friendly optimazation
-// make simple website of html with some client render and some server side rendering with using different comonents
-//dom
-

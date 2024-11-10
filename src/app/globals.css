@@ -127,12 +127,7 @@ button{
   width: 40px;
 }
 
-/* /--------------------------------home page------------------ */ */
-/* .homeBtn{
-  background-color: rgb(225, 4, 85);
-  color: beige;
-} */
-
+/* --------------------------------home page------------------ */ 
 
 #container{
   height: 520px;
@@ -328,7 +323,4 @@ button{
   position: cover;
   transform: scalex(1.05) scaleY(1.15)
 }
-
-/* //---------------------------------------contact page------------------------------------ */ 
-
 
